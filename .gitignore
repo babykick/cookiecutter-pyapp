@@ -95,6 +95,9 @@ target/
 output/
 python_boilerplate/
 
-# development
+# vscode
 .vscode/
+
+# venv
 venv/
+.venv/
